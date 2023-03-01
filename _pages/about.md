@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm now an undergraduate student in Sun Yat-sen university. My research interest locates at optimization. 
+I'm now an undergraduate student in Sun Yat-sen university. My research interest locates at optimization.
 
