@@ -14,10 +14,6 @@ I'm an incoming PhD student in Electrical and Computer Engineering at Cornell Te
 
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: flex; gap: 10px; margin-bottom: 8px; align-items: baseline;">
-    <span style="font-weight: bold; color: #555; white-space: nowrap; min-width: 120px;">2025 – present</span>
-    <span>Ph.D., Electrical and Computer Engineering, <a href="https://tech.cornell.edu">Cornell University</a>, New York, NY</span>
-  </li>
-  <li style="display: flex; gap: 10px; margin-bottom: 8px; align-items: baseline;">
     <span style="font-weight: bold; color: #555; white-space: nowrap; min-width: 120px;">2023 – 2026</span>
     <span>M.S., Computer Science and Engineering, <a href="https://cse.sysu.edu.cn/">Sun Yat-sen University</a>, Guangzhou, China</span>
   </li>
