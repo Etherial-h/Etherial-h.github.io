@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at Sun Yat-sen University, under the supervision of Prof. Qing Ling. I received my B.S. in Information and Computing Science from Sun Yat-sen University in 2023. My research interests are in optimization and differential privacy.
+I'm an incoming PhD student in Electrical and Computer Engineering at Cornell University. I received my M.S. in Computer Science and Engineering from Sun Yat-sen University in June 2026, under the supervision of Prof. Qing Ling. I received my B.S. in Information and Computing Science from Sun Yat-sen University in 2023. My research interests are in optimization and differential privacy.
 

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Etherial-h"
+title                    : "Yue Huang"
 title_separator          : "-"
 name                     : &name "Yue Huang"
-description              : &description "Graduate, School of Computer Science and Engineering, Sun Yat-sen University"
+description              : &description "Incoming PhD Student, Electrical and Computer Engineering, Cornell University"
 url                      : https://etherial-h.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "etherial-h/etherial-h.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yue Huang"
   avatar           : "profile.png"
-  bio              : "Graduate, School of Computer Science and Engineering, Sun Yat-sen University"
-  location         : "Guangzhou"
+  bio              : "Incoming PhD Student, Electrical and Computer Engineering, Cornell University"
+  location         : "Ithaca, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GsBF7YMAAAAJ"
